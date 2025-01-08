@@ -2,6 +2,6 @@ Overview:
 I, as a data analyst, worked on forecasting monthly sales for a furniture store to support better inventory management and strategic planning. The project involved analyzing historical sales data and predicting future trends to aid in decision-making.
 Methodology:
 I collected and preprocessed historical sales data from the "Furniture_Store_Data" sheet, cleaning and structuring it for analysis, conducted exploratory data analysis (EDA) to identify seasonal patterns and growth trends.
-I applied a time series forecasting model, generating forecasts and confidence intervals in the "Sales_Forecasting" sheet to predict future sales accurately and visualized the results in the "Forecasting_Graph" sheet, comparing actual and forecasted sales.
+I applied time series forecasting model, generating forecasts and confidence intervals in the "Sales_Forecasting" sheet to predict future sales accurately and visualized the results in the "Forecasting_Graph" sheet, comparing actual and forecasted sales.
 Insights: 
 Through this analysis, I identified seasonal sales trends and fluctuations across different quarters. The forecasting model provided accurate predictions, enabling the furniture store to optimize inventory levels and prepare for seasonal demand. The confidence intervals offered insights into the uncertainty surrounding the forecasts, allowing for risk assessment and more informed business decisions.
